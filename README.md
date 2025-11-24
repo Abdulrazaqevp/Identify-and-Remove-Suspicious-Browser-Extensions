@@ -22,7 +22,7 @@ browser extensions.
 
 ## 📸 Installed Extensions
 
-![Extensions Screenshot](83d84740-ce4e-408e-8cf8-833df7f65707.png)
+screenshots added in the repository and report
 
 ## ✅ Audit Summary
 
